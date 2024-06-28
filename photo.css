@@ -1,0 +1,49 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position:center;
+}
+
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 300px;
+}
+
+#objects{
+    font-size: 15px;
+    color: white;
+    background-color: rgb(255, 125, 227);
+    width: 400px;
+    border-radius: 25px;
+}
+
+a{
+    float: right;
+    background-color: rgb(162, 255, 147);
+    width: 55px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+h3{
+    background-color: white;
+    color: rgb(71, 71, 71);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+    font-size: 40px;
+    border-radius: 25px;
+    height: 50px;
+    text-align: center;
+}
